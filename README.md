@@ -1,4 +1,5 @@
 ✔ This project was created by [divanov11](https://github.com/divanov11)
+[Source](https://github.com/divanov11/image_slider_frontend)
 I try to mimic in React version of this project :) let have fun!!\
 ✔ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
