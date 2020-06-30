@@ -24,7 +24,7 @@ body {
 
 .thumbnail {
   object-fit: cover;
-  max-width: 100px;
+  max-width: 180px;
   max-height: 100px;
   cursor: pointer;
   opacity: 0.5;
@@ -51,7 +51,7 @@ body {
   width: 440px;
   display: flex;
   flex-wrap: nowrap;
-  overflow-x: hidden;
+  overflow-x: auto;
 }
 
 #slider::-webkit-scrollbar {
@@ -59,7 +59,7 @@ body {
 }
 
 #slider::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
 
 #slider::-webkit-scrollbar-thumb {
